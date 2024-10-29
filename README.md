@@ -1,4 +1,4 @@
-# ArtificiaInteligence
+# Artificial Intelligence
 
 ## Final Grade: 16/20
 
